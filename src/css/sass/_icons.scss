@@ -24,6 +24,15 @@
   }
 }
 
+.icon-sm{
+  max-width: 96px;
+  transition: .5s ease;
+
+  @include responsive(s){
+    max-width: 72px;
+  }
+}
+
 .icon-l{
   max-width: 120px;
   transition: .5s ease;
@@ -42,3 +51,14 @@
   }
 
 }
+
+.ilistation{
+  max-width: 350px;
+  transition: .5s ease;
+
+  @include responsive(s){
+    max-width: 320px;
+  }
+
+}
+

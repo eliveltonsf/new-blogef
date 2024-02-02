@@ -1,0 +1,23 @@
+{
+  "extends": "react-app",
+  "rules": {
+    "react/no-unescaped-entities": 0,
+    "jsx-a11y/anchor-is-valid": [
+      "off",
+      {
+        "components": [
+          "Link"
+        ],
+        "specialLink": [
+          "hrefLeft",
+          "hrefRight"
+        ],
+        "aspects": [
+          "noHref",
+          "invalidHref",
+          "preferButton"
+        ]
+      }
+    ]
+  }
+}

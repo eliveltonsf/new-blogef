@@ -4,7 +4,7 @@
       "id": 1,
       "id_user": 1,
       "date": "14 NOV 2021",
-      "imageUrl": "https://nyousefali.com.br/blog/img/06.png",
+      "imageUrl": "https://uploaddeimagens.com.br/images/004/489/055/original/06.png?1685546221",
       "category": "games",
       "title": "O que tem de novo no PS5? Tudo o que você precisa saber.",
       "resume": "Acabou de sair esse grande lançamento dos consoles. Leia esse artigo para saber das novidades!",
@@ -18,7 +18,7 @@
       "id": 2,
       "id_user": 1,
       "date": "18 SET 2021",
-      "imageUrl": "https://nyousefali.com.br/blog/img/07.png",
+      "imageUrl": "https://uploaddeimagens.com.br/images/004/489/056/original/07.png?1685546222",
       "category": "tecnologia",
       "title": "Novos processadores da 12° geração da intel chegaram.",
       "resume": "Os novos processadores da intel vieram para bater de frente com os novos Ryzen? Tem nova arquitetura semelhante à prática da grande Apple.",
@@ -32,7 +32,7 @@
       "id": 3,
       "id_user": 3,
       "date": "01 NOV 2021",
-      "imageUrl": "https://nyousefali.com.br/blog/img/09.png",
+      "imageUrl": "https://uploaddeimagens.com.br/images/004/489/058/original/09.png?1685546226",
       "category": "fotografia",
       "title": "Qual a melhor câmera CxB para fotos e vídeos em 2021?",
       "resume": "Com o lançamento de novas câmeras, qual a melhor? DSLR ou mirrorless? Qual o melhor custo benefício?",
@@ -46,7 +46,7 @@
       "id": 4,
       "id_user": 3,
       "date": "10 OUT 2021",
-      "imageUrl": "https://nyousefali.com.br/blog/img/03.png",
+      "imageUrl": "https://uploaddeimagens.com.br/images/004/489/053/original/03.png?1685546217",
       "category": "cinema",
       "title": "Top 10 Filmes de 2021.",
       "resume": "Por mais que a pandemia tenha atrapalhado a gravação de vários filmes, temos muitas novidades para esse final de ano. Confira os top 10 filmes que prometem para o final de 2021.",
@@ -60,7 +60,7 @@
       "id": 5,
       "id_user": 2,
       "date": "07 OUT 2021",
-      "imageUrl": "https://nyousefali.com.br/blog/img/01.png",
+      "imageUrl": "https://uploaddeimagens.com.br/images/004/489/050/original/01.png?1685546213",
       "category": "tecnologia",
       "title": "Novos Mackbooks em 2021.",
       "resume": "FINALMENTE! Os novos macbooks são lançados pela Apple com novos processadores e o termo PRO volta a fazer sentido! Os resultados são de supreender.",
@@ -74,7 +74,7 @@
       "id": 6,
       "id_user": 3,
       "date": "07 OUT 2021",
-      "imageUrl": "https://nyousefali.com.br/blog/img/02.png",
+      "imageUrl": "https://uploaddeimagens.com.br/images/004/489/051/original/02.png?1685546215",
       "category": "tecnologia",
       "title": "Air Pods 3° geração vs. Air Pods Pro",
       "resume": "Com o lançamento dos novos airpods de 3 geração, eles se aproximaram dos air pods pro? Será que vale a pena? É isso que vamos falar nesse artigo.",
@@ -88,7 +88,7 @@
       "id": 7,
       "id_user": 1,
       "date": "07 NOV 2021",
-      "imageUrl": "https://nyousefali.com.br/blog/img/05.png",
+      "imageUrl": "https://uploaddeimagens.com.br/images/004/489/054/original/05.png?1685546220",
       "category": "tecnologia",
       "title": "Ainda vale a pena o PS4 Pro em 2021?",
       "resume": "Com o lançamento dos novos consoles da Sony, ainda vale a pena o PS4 Pro. Os jogos já estão otimizados para a nova geração?",
@@ -102,7 +102,7 @@
       "id": 8,
       "id_user": 1,
       "date": "22 NOV 2021",
-      "imageUrl": "https://nyousefali.com.br/blog/img/08.png",
+      "imageUrl": "https://uploaddeimagens.com.br/images/004/489/057/original/08.png?1685546224",
       "category": "tecnologia",
       "title": "PC Gamer em 2021? Está muito caro.",
       "resume": "Vocês já viram os preços de comprar um PC Gamer em plena pandemia covid-19? Escrevi um pouco sobre o que esperar daqui pra frente.",
@@ -114,8 +114,8 @@
     },
     {
       "id_user": 1,
-      "date": "2021-11-29",
-      "imageUrl": "https://nyousefali.com.br/blog/img/08.png",
+      "date": "29 NOV 2021",
+      "imageUrl": "https://uploaddeimagens.com.br/images/004/489/057/original/08.png?1685546224",
       "category": "cinema",
       "title": "O novo filme do Spider-man no way home",
       "resume": "Aqui é um resumo do posto: O novo filme do Spider-man no way home",
@@ -130,30 +130,30 @@
   "user": [
     {
       "id": 1,
-      "user": "nasseryousef",
-      "name": "Nasser",
-      "surname": "Yousef Ali",
+      "user": "eli",
+      "name": "Eli",
+      "surname": "Ferreira",
       "token": "E10ADC3949BA59ABBE56E057F20F883E",
       "description": "Front-End Dev & UI motion based in Brasília/Brazil, more than 8 years of experience in product development (user interaction, movement, performance, design faithful to design) and creating interfaces with out-of-the-box animations.",
-      "ImageProfile": "https://nyousefali.com.br/blog/profile/ny.jpg"
+      "ImageProfile": "https://uploaddeimagens.com.br/images/004/489/045/original/eli.png?1685546004"
     },
     {
       "id": 2,
-      "user": "emily",
-      "name": "Emily",
-      "surname": "Grace",
+      "user": "juliana",
+      "name": "Juliana",
+      "surname": "Toshima",
       "token": "E10ADC3949BA59ABBE56E057F20F883E",
       "description": "Sou UI Designer e apaixonada por tecnologia. Crio interfaces e escrevo para o blog.",
-      "ImageProfile": "https://nyousefali.com.br/blog/profile/emily.png"
+      "ImageProfile": "https://uploaddeimagens.com.br/images/004/489/040/original/juliana.png?1685545894"
     },
     {
       "id": 3,
       "user": "alex",
       "name": "Alex",
-      "surname": "Jacob",
+      "surname": "Fushi",
       "token": "E10ADC3949BA59ABBE56E057F20F883E",
       "description": "Sou fotógrafo profissional, amante de cinema e tecnologia. Colunista e nas horas vagas escrevo para o blog.",
-      "ImageProfile": "https://nyousefali.com.br/blog/profile/alex.png"
+      "ImageProfile": "https://uploaddeimagens.com.br/images/004/489/039/original/alex.png?1685545787"
     }
   ]
 }

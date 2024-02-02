@@ -1800,6 +1800,16 @@ nav {
   transform: translate(0, -4px, 0);
 }
 
+.icon-sm {
+  max-width: 96px;
+  transition: 0.5s ease;
+}
+@media screen and (max-width: 960px) {
+  .icon-sm {
+    max-width: 72px;
+  }
+}
+
 .icon-l {
   max-width: 120px;
   transition: 0.5s ease;
@@ -1817,6 +1827,16 @@ nav {
 @media screen and (max-width: 960px) {
   .icon-xl {
     max-width: 144px;
+  }
+}
+
+.ilistation {
+  max-width: 350px;
+  transition: 0.5s ease;
+}
+@media screen and (max-width: 960px) {
+  .ilistation {
+    max-width: 320px;
   }
 }
 
