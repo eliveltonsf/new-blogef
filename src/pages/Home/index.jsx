@@ -51,8 +51,8 @@ const Home = () => {
             </h3>
 
             <p className="mt-2">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare
-              urna pharetra ut ac, pellentesque.
+              Se chegou até aqui, pare e enriqueça seu conhecimento com os posts
+              mais curtidos do momento.
             </p>
           </div>
           <div className="grid-6">
@@ -66,20 +66,20 @@ const Home = () => {
       <section className="container">
         <h3>Post com mais visitas</h3>
         <p className="mt-1">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna
-          pharetra ut ac, pellentesque.
+          Não fique parado e veja o que todos estão interessados, se divirta com
+          esse conhecimento. 
         </p>
 
         <div className="row">
-          <Card />
-
-          <Card />
-
-          <Card />
+          {mostSeen.map((item) => (
+            <Card key={item.id} content={item} />
+          ))}
         </div>
       </section>
 
-      <Banner />
+      {banner.map((item) => (
+        <Banner key={item.id} content={item} />
+      ))}
     </>
   );
 };
