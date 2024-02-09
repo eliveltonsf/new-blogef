@@ -55,8 +55,8 @@ const Footer = () => {
                 Quer ser avisado dos novos posts do blog?
               </h4>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare
-                urna pharetra ut ac, pellentesque.
+                Fique de olho e acompanhe nosso blog, você não irá se
+                arrepender.
               </p>
               <div className="flex-start-row mt-2">
                 <input
