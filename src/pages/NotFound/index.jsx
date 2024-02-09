@@ -3,6 +3,7 @@ import Header from "../Header";
 import Footer from "../Footer";
 
 import logo from "../../svg/blog-logo2.svg";
+import { Link } from "react-router-dom";
 
 const NotFound = () => {
   return (
@@ -22,9 +23,9 @@ const NotFound = () => {
               A página que você tá procurando não existe ou foi removida. Clique
               para voltar para o site.
             </p>
-            <a href="#" className="btn text-center w-100 mt-3">
+            <Link to="/" className="btn text-center w-100 mt-3">
               Voltar p/Home
-            </a>
+            </Link>
           </div>
           <div className="grid-4 disappear"></div>
         </div>

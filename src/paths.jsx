@@ -19,7 +19,9 @@ function Paths() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/login" element={<Login />} />
         <Route path="/profile" element={<Profile />} />
-        <Route path="/post" element={<Post />} />
+
+        <Route path="/post/:idPost" element={<Post />} />
+
         <Route path="/search" element={<Search />} />
         <Route path="*" element={<NotFound />} />
       </Routes>

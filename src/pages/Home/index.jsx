@@ -8,6 +8,8 @@ import Main from "../../components/Main";
 import iconStar from "../../svg/icon-star.svg";
 
 import api from "../../services/api";
+import Header from "pages/Header";
+import Footer from "pages/Footer";
 
 const Home = () => {
   const [main, setMain] = useState([]);
@@ -39,6 +41,7 @@ const Home = () => {
 
   return (
     <>
+      <Header />
       <Hero></Hero>
 
       <section className="container">
@@ -80,6 +83,7 @@ const Home = () => {
       {banner.map((item) => (
         <Banner key={item.id} content={item} />
       ))}
+      <Footer />
     </>
   );
 };
